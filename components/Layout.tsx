@@ -8,7 +8,7 @@ export const Layout: FunctionComponent = ({ children }) => {
     <>
       <div className={styles.wrapper}>
         <Header />
-        <main className="container mx-auto">{children}</main>
+        <main className="container mx-auto my-8">{children}</main>
         <Footer />
       </div>
     </>

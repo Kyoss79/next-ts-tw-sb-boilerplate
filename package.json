@@ -12,6 +12,7 @@
     "next": "10.2.3",
     "node-sass": "^4.14.1",
     "postcss": "^8.2.13",
+    "preact": "^10.5.13",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "tailwindcss": "^2.1.2"
