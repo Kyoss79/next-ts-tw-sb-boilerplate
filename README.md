@@ -6,6 +6,7 @@ Including
 - Typescript & ESLint
 - Tailwind CSS
 - Preact Export Optimizations
+- Storybook
 
 ## Off we go
 ```bash
