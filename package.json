@@ -19,7 +19,6 @@
     "preact": "^10.5.13",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "run": "^1.4.0",
     "storybook": "^6.2.9",
     "tailwindcss": "^2.1.2"
   },
@@ -42,7 +41,7 @@
   },
   "lint-staged": {
     "*.{js,ts,tsx}": "eslint --cache --fix",
-    "*.css": "stylelint --fix",
-    "*.{html,js,ts,tsx,css,md,json}": "prettier --write"
+    "*.{css,scss}": "stylelint --fix",
+    "*.{html,js,ts,tsx,css,scss,md,json}": "prettier --write"
   }
 }
