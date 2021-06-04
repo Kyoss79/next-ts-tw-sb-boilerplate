@@ -6,6 +6,8 @@ Best practices Next.js Boilerplate.
 - Styling in SCSS via [TailwindCSS](https://www.tailwindcss.com)
 - Preact Export Optimizations
 - [Storybook](https://www.storybook.js.org) Integration
+- GitHub Actions for [dependency updates](https://dependabot.com/) via dependabot
+- Use [ESLint](https://eslint.org/), [stylelint](https://stylelint.io/) and [Prettier](https://prettier.io/) on your IDE and before you commit with [Husky](https://github.com/typicode/husky) and [lint-staged](https://github.com/okonet/lint-staged).
 
 ### Current Versions
 
@@ -15,7 +17,7 @@ Best practices Next.js Boilerplate.
 - Typescript v4.2.4
 - TailwindCSS v2.1.2 in JIT Mode
 
-## Off we go
+## Development
 
 ```bash
 npm run dev
