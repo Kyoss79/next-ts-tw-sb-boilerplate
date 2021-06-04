@@ -31,7 +31,7 @@
     "@storybook/builder-webpack5": "^6.3.0-beta.4",
     "@storybook/manager-webpack5": "^6.3.0-alpha.37",
     "@storybook/react": "^6.2.9",
-    "@types/react": "17.0.8",
+    "@types/react": "17.0.9",
     "babel-loader": "^8.2.2",
     "eslint": "^7.27.0",
     "eslint-config-next": "^10.2.3",
