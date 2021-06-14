@@ -30,7 +30,7 @@
     "@storybook/addon-essentials": "^6.2.9",
     "@storybook/addon-links": "^6.2.9",
     "@storybook/addon-postcss": "^2.0.0",
-    "@storybook/builder-webpack5": "^6.3.0-beta.4",
+    "@storybook/builder-webpack5": "^6.3.0-rc.4",
     "@storybook/manager-webpack5": "^6.3.0-alpha.37",
     "@storybook/react": "^6.2.9",
     "@types/react": "17.0.9",
