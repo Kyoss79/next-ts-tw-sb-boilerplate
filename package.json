@@ -52,7 +52,8 @@
   },
   "lint-staged": {
     "*.{js,ts,tsx}": "eslint --cache --fix",
-    "*.{css,scss}": "stylelint --fix"
+    "*.{css,scss}": "stylelint --fix",
+    "*.{html,js,ts,tsx,css,scss,md,json}": "prettier --write"
   },
   "prettier": {
     "arrowParens": "always",
