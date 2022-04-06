@@ -1,0 +1,6 @@
+# Ignore crucial files
+package.json
+package-lock.json
+
+# Ignore artifacts
+.next
