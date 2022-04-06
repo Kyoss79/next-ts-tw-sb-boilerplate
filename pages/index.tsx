@@ -1,7 +1,8 @@
 import Head from 'next/head'
-import {Layout} from "@components/Layout";
+import { Layout } from '@components/Layout'
+import { NextPage } from 'next'
 
-export default function Home() {
+const Home: NextPage = () => {
   return (
     <>
       <Head>
@@ -12,7 +13,6 @@ export default function Home() {
 
       <Layout>
         Main Content
-
         <div className="max-w-xl mx-auto border border-gray-300 rounded-lg shadow overflow-hidden hover:shadow-lg my-8">
           <div className="bg-gray-800 text-blue-300 px-4 py-3 border-b">
             <h2 className="font-bold text-3xl">Next.js Boilerplate</h2>
@@ -29,10 +29,21 @@ export default function Home() {
             <p>Start editing right away!</p>
           </div>
           <div className="px-4 py-2 text-center bg-gray-800 text-gray-200 border-t">
-            Leave a ⭐{'  '} on <a href="https://github.com/Kyoss79/next-ts-tw-sb-boilerplate" target="_blank" rel="noreferrer" className="border-b">github</a>!
+            Leave a ⭐{'  '} on{' '}
+            <a
+              href="https://github.com/Kyoss79/next-ts-tw-sb-boilerplate"
+              target="_blank"
+              rel="noreferrer"
+              className="border-b"
+            >
+              github
+            </a>
+            !
           </div>
         </div>
       </Layout>
     </>
   )
 }
+
+export default Home
