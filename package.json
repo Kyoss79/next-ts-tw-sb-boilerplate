@@ -16,8 +16,8 @@
     "npm": "^8.9.0",
     "postcss": "^8.4.13",
     "preact": "^10.7.2",
-    "react": "17.0.2",
-    "react-dom": "17.0.2",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
     "sass": "^1.51.0",
     "storybook": "^6.5.3",
     "tailwindcss": "^3.0.24"
