@@ -31,7 +31,7 @@
     "@storybook/addon-links": "^6.4.22",
     "@storybook/addon-postcss": "^2.0.0",
     "@storybook/builder-webpack5": "^6.4.20",
-    "@storybook/manager-webpack5": "^6.4.22",
+    "@storybook/manager-webpack5": "^6.5.8",
     "@storybook/react": "^6.4.22",
     "@types/react": "18.0.9",
     "@typescript-eslint/eslint-plugin": "^4.33.0",
