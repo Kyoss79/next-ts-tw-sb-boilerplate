@@ -13,9 +13,9 @@ Best practices Next.js Boilerplate.
 
 - Next.js v12.1.3
 - React v17.0.2
-- Storybook v6.4.20
+- Storybook v6.5.3
 - Typescript v4.3.5
-- TailwindCSS v2.2.19 in JIT Mode
+- TailwindCSS v3.0.24
 
 ## Development
 
