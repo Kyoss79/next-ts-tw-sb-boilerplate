@@ -11,7 +11,7 @@
     "prepare": "husky install && chmod +x .husky/pre-commit"
   },
   "dependencies": {
-    "autoprefixer": "^10.4.7",
+    "autoprefixer": "^10.4.8",
     "next": "^12.1.6",
     "npm": "^8.18.0",
     "postcss": "^8.4.13",
