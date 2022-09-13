@@ -11,7 +11,7 @@
     "prepare": "husky install && chmod +x .husky/pre-commit"
   },
   "dependencies": {
-    "autoprefixer": "^10.4.8",
+    "autoprefixer": "^10.4.9",
     "next": "^12.2.5",
     "npm": "^8.19.1",
     "postcss": "^8.4.16",
@@ -49,7 +49,7 @@
     "husky": "8.0.1",
     "lint-staged": "13.0.3",
     "prettier": "^2.7.1",
-    "typescript": "4.6.4"
+    "typescript": "4.8.3"
   },
   "lint-staged": {
     "*.{js,ts,tsx}": "eslint --cache --fix",
